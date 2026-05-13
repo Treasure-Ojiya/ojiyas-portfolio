@@ -1,0 +1,6 @@
+Primary BG: #0A0A0A
+Card BG:    #151515
+Text Main:  #F5F5F5
+Text Soft:  #A1A1AA
+Accent:     #3B82F6
+Border:     #262626
